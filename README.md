@@ -18,7 +18,7 @@ How to include the API with Maven
 </dependencies>
 ```
 
-**Note**: ColorLib uses external Libraries that requires Shading in order to be used in your Minecraft Plugin, plese include the following in your *pom.yml*
+**Note**: ColorLib uses external Libraries that requires Shading in order to be used in your Minecraft Plugin, please include the following in your *pom.xml*
 ```xml
 <build>
         <plugins>
