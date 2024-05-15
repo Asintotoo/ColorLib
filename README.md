@@ -59,7 +59,7 @@ ColorLib.setColors("<RAINBOW:50>This is a Rainbow Text</RAINBOW>");
 ```
 ![image](https://github.com/Asintotoo/ColorLib/assets/166311378/776687d8-4b23-40d5-9b21-b8fd80ccb98d)
 
-To set a simple solid color use the <SOLID> tag:
+To set a simple *Solid* color use the <SOLID> tag:
 ```java
 ColorLib.setColors("<SOLID:aabbcc>This is a Solid Text");
 ```
@@ -102,5 +102,5 @@ this will format the following text replacing %player_name% with "Maggiollo":
 messages:
   example-papi: "<SOLID:00aa55>Hello %player_name%"
 ```
-
+**Note**: All the method using the "Player" class are also compatible with the "OfflinePlayer" class.
 **Note**: All the methods that use PlaceholderAPI's Placeholders requires PlaceholderAPI to be installed on the server, you can download it from [here](https://www.spigotmc.org/resources/placeholderapi.6245/)
