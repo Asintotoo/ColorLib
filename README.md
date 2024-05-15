@@ -103,4 +103,5 @@ messages:
   example-papi: "<SOLID:00aa55>Hello %player_name%"
 ```
 **Note**: All the method using the "Player" class are also compatible with the "OfflinePlayer" class.
+
 **Note**: All the methods that use PlaceholderAPI's Placeholders requires PlaceholderAPI to be installed on the server, you can download it from [here](https://www.spigotmc.org/resources/placeholderapi.6245/)
