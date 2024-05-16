@@ -1,4 +1,4 @@
-## ColorLib - A Color API for Minecraft Spigot Messages
+## ColorLib - A Color API for Minecraft Spigot Plugins
 
 How to include the API with Maven
 ```xml
